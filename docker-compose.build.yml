@@ -7,5 +7,5 @@ services:
     container_name: socks5-build
     env_file: .env
     ports:
-      - "1080:1080"
+      - "80:1080"
     restart: unless-stopped
