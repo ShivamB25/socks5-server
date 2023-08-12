@@ -1,1 +1,1 @@
-web: /socks5
+web: ./bin/socks5-server
